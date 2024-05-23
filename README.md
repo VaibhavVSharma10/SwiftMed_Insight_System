@@ -17,8 +17,10 @@ How to Run it:
 
 Command 1    
     To form vectors from the pdf
+    
         python ingest.py
 
 Command 2        
     To run the chainlit model for a CHATGPT like Interface for the SwiftMed Insight System
+    
         chainlit run model.py -w 
